@@ -1,6 +1,11 @@
 # HR EMPLOYEE DISTRIBUTION DASHBOARD
 
 
+![hr employee report-1](https://github.com/FARIS-B20/HR-EMPOYEE-DISTRIBUTION/assets/98265897/1275702a-e120-4583-9393-f32c912a7eb0)
+
+![hr employee report-2](https://github.com/FARIS-B20/HR-EMPOYEE-DISTRIBUTION/assets/98265897/93af8a3e-613a-4e4f-8d06-5003f99425a7)
+
+
 ## Data Used
 
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
